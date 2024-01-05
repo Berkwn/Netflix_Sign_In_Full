@@ -1,0 +1,147 @@
+@media screen and (max-width:760px) {
+
+    .background{
+        background-image: none!important;
+        background-color: black!important;
+    }
+
+    .sıgn-ın
+    {     width: 100%!important; 
+        background-color: transparent!important;
+        margin-left: 0px;
+        text-align: start;
+       
+    }
+
+    .mailInput{
+
+      margin-left: 0;
+    }
+
+    .ınput-container{
+
+        width: 100%;
+    }
+    .input{
+
+        width: 100%!important;
+    }
+
+     .main-content{
+
+        justify-content: start;
+    } 
+
+    .netflix-logo img{
+
+        
+       
+        width: 40%!important;
+    }
+
+    .needhelp{
+
+     margin-left: 160px!important;
+    }
+
+    
+
+    
+    
+}
+
+
+
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.site-container{
+    height: 100vh;
+    background: rgba(24, 21, 21, 0.48);
+}
+
+.background{
+    position: relative;
+    
+    width: 100%;
+    height: 100vh;
+   
+    background: url("https://assets.nflxext.com/ffe/siteui/vlv3/d1532433-07b1-4e39-a920-0f08b81a489e/04253b8c-a366-4158-b704-8ac470f636a5/TR-en-20231120-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+}
+
+
+
+
+.netflix-logo img{
+    margin-top: 10px;
+  width: 1%;
+    background-color: transparent ;
+    
+
+}
+
+.netflix-logo{
+    width: 100%;
+}
+
+.register:hover{
+
+    text-decoration: underline!important;
+}
+
+.needhelp:hover{
+
+    text-decoration: underline!important;
+}
+
+
+
+.sıgn-ın{
+    margin-left: 50%;
+     position: fixed;
+  
+    height: 550px;
+     background: rgba(0, 0, 0, 0.699); 
+
+
+}
+
+.sıgn-ınp{
+    font-weight: 500;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}.ınput{
+
+    
+    height: 500px;
+}.ınput-container{
+    
+    padding: 8px;
+   width: 90%;
+  
+}
+
+
+
+.more{
+
+    text-decoration: none;
+}
+
+.more:hover{
+
+    text-decoration: underline;
+}
+
